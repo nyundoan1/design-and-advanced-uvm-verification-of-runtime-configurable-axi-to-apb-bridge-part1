@@ -1,0 +1,9 @@
+../rtl/addr_range_gen.v
+../rtl/ADDR_DECODER.v
+../rtl/RW_SELECT.v
+../rtl/ASYS_FIFO.v
+../rtl/APB_MASTER.v
+../rtl/APB_REGISTER.v
+../rtl/APB_CLOCK_DOMAIN.v
+../rtl/AXI_CLOCK_DOMAIN.v
+../rtl/AXI_to_APB_bridge.v
