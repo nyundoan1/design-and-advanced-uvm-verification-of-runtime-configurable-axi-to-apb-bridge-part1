@@ -17,7 +17,7 @@ This repository focuses on the RTL design, UVM verification environment, testcas
 For the **final completed version** including **Functional Coverage, Code Coverage, FPGA synthesis/implementation, timing analysis, and power evaluation**, please refer to:
 
 🔗 **Part 2 (Final Version With Coverage)**  
-https://github.com/nyundoan1/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part2
+https://github.com/nyundoan/design-and-advanced-uvm-verification-of-runtime-configurable-axi-to-apb-bridge-part2
 
 
 
